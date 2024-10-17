@@ -53,10 +53,7 @@ inputs:
     # ruby ./path/to/script.rb
   opts:
     description: |
-      Type your script here.
-
-      **Make sure that it returns a non zero exit code in case of an error!**
-      The step will only fail if your script returns with a non zero exit code!
+      This step is coming from a custom GitHub steplib (user).
     is_expand: false
     is_required: true
     title: Script content
