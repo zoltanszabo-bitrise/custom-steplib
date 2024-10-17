@@ -19,6 +19,8 @@ description: "\nRun any custom script you want as part of your Bitrise build. Al
   [Exporting to Test Reports from custom Script Steps](https://devcenter.bitrise.io/testing/exporting-to-test-reports-from-custom-script-steps/)\n\n###
   Related Steps\n\n* [Script Runner](https://www.bitrise.io/integrations/steps/script-runner)\n*
   [Remote Bash Script Runner](https://www.bitrise.io/integrations/steps/remote-script-runner)"
+asset_urls:
+  icon.svg: https://www.svgrepo.com/show/429910/script-coding-programming.svg
 website: https://github.com/bitrise-io/steps-script
 source_code_url: https://github.com/bitrise-io/steps-script
 support_url: https://github.com/bitrise-io/steps-script/issues
